@@ -7,7 +7,7 @@
     <ProjectGuid>{4014B0D8-514B-452A-89E4-7594014A6BC2}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Module7</RootNamespace>
+    <RootNamespace>Module8</RootNamespace>
     <AssemblyName>Module6</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
