@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Collections;
 
-namespace Mod_9_HomeworkN
+namespace Mod_9_Homework
 {
     public class Student : Person
     {
