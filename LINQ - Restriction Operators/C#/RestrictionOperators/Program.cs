@@ -21,7 +21,7 @@ namespace RestrictionOperators
 
             //samples.Linq2(); // This sample uses the where clause to find all products that are out of stock
 
-            //samples.Linq3(); // This sample uses the where clause to find all products that are in  stock and cost 
+            samples.Linq3(); // This sample uses the where clause to find all products that are in  stock and cost 
                                // more than 3.00 per unit
 
             samples.Linq4(); // This sample uses the where  clause to find all customers in Washington and then it 

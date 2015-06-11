@@ -19,13 +19,13 @@ namespace OrderingOperators
 
             //samples.Linq29(); // This sample uses orderby to sort a list of words by length
 
-            //samples.Linq30(); // This sample uses orderby to sort a list of products by name. Use the \"descending\" 
+            samples.Linq30(); // This sample uses orderby to sort a list of products by name. Use the \"descending\" 
                                 // keyword at the end of the clause to perform a reverse ordering
 
             //samples.Linq31(); // This sample uses an  OrderBy clause with a custom comparer to do a case-insensitive 
                                 // sort of the words in an array
 
-            //samples.Linq32(); // This sample uses  orderby and  descending to sort a list of doubles from highest to 
+            samples.Linq32(); // This sample uses  orderby and  descending to sort a list of doubles from highest to 
                                 // lowest
 
             //samples.Linq33(); // This sample uses  orderby to sort a list of products by units in stock from highest 
